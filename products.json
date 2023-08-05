@@ -1,0 +1,88 @@
+[{
+    "name": "iphone 14 ",
+    "price": 120000,
+    "featured": true,
+    "rating": 4.9,
+    "company": "apple"
+  },
+  {
+    "name": "samsung f14",
+    "price": 65000,
+    "featured": true,
+    "rating": 4.8,
+    "company": "samsung"
+  }
+,{
+    "name": "iphone 7",
+    "price": 25000,
+    "featured": true,
+    "rating": 4.9,
+    "company": "apple"
+  },
+  {
+    "name": "samsung f22 se",
+    "price": 80000,
+    "featured": true,
+    "rating": 4.8,
+    "company": "samsung"
+  }
+,{
+    "name": "iphone 12 mini",
+    "price": 42000,
+    "featured": true,
+    "rating": 4.9,
+    "company": "apple"
+  },
+  {
+    "name": "samsung s12 ultra",
+    "price": 95000,
+    "featured": true,
+    "rating": 4.8,
+    "company": "samsung"
+  }
+,{
+    "name": "iphone 8",
+    "price": 22000,
+    "featured": true,
+    "rating": 4.9,
+    "company": "apple"
+  },
+  {
+    "name": "samsung f54 ",
+    "price": 14000,
+    "featured": true,
+    "rating": 4.8,
+    "company": "samsung"
+  },{
+    "name": "mi 14 ",
+    "price": 22000,
+    "featured": true,
+    "rating": 4.8,
+    "company": "mi"
+  },{
+    "name": "mi y11 ",
+    "price": 9000,
+    "featured": true,
+    "rating": 4.8,
+    "company": "mi"
+  },{
+    "name": "dell a1 ",
+    "price": 14000,
+    "featured": true,
+    "rating": 4.8,
+    "company": "dell"
+  },{
+    "name": "dell gen 7 ",
+    "price": 31500,
+    "featured": true,
+    "rating": 4.8,
+    "company": "dell"
+  },
+  {
+    "name": "mi a12 ",
+    "price": 13000,
+    "featured": true,
+    "rating": 4.8,
+    "company": "mi"
+  }
+]
